@@ -1,0 +1,19 @@
+.container{
+  background-color: gray
+}
+
+#topo{
+  background-color: red
+}
+
+#principal{
+  background-color: blue
+}
+
+#apoio{
+  background-color: green
+}
+
+#rodape{
+  background-color: black
+}
